@@ -1,0 +1,22 @@
+#countLabel{
+    display: flex;
+    justify-content: center;
+    font-size: 10em;
+    font-family: sans-serif;
+}
+
+.btnContainers{
+    text-align: center;
+}
+
+.btn{
+    padding: 25px;
+    margin: 10px;
+    background-color: rgb(91, 91, 255);
+    color: aliceblue;
+    
+}
+.btn:hover{
+    background-color: rgb(20, 20, 242);
+
+}
